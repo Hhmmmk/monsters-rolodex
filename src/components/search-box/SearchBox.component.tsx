@@ -1,6 +1,5 @@
 import './SearchBox.styles.css';
 
-
 const SearchBox = ({className, placeholder, onChangeHandler}) => {
   return (
     <div>
